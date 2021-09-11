@@ -1,5 +1,6 @@
 ### 2 do list
 
+- setup branch commit encryption
 - check AWS account
 - check/create Travis account
 - connect Travis with AWS
